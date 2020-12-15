@@ -88,11 +88,11 @@
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <LanguageStandard>stdcpp17</LanguageStandard>
-      <AdditionalIncludeDirectories>D:\Dev\Diagraph\Qt\qt-everywhere-src-5.15.2\qtbase\include;D:\Dev\Diagraph\Qt\qt-everywhere-src-5.15.2\qtbase\include\QtCore</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Tools\Qt\5.15-win64\include;C:\Tools\Qt\5.15-win64\include\QtCore</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalDependencies>Qt5Cored.lib</AdditionalDependencies>
-      <AdditionalLibraryDirectories>D:\Dev\Diagraph\Qt\qt-everywhere-src-5.15.2\qtbase\lib</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Tools\Qt\5.15-win64\lib</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -109,11 +109,11 @@
       <WarningLevel>Level3</WarningLevel>
       <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <LanguageStandard>stdcpp17</LanguageStandard>
-      <AdditionalIncludeDirectories>D:\Dev\Diagraph\Qt\qt-everywhere-src-5.15.2\qtbase\include;D:\Dev\Diagraph\Qt\qt-everywhere-src-5.15.2\qtbase\include\QtCore</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Tools\Qt\5.15-win64\include;C:\Tools\Qt\5.15-win64\include\QtCore</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalDependencies>Qt5Cored.lib</AdditionalDependencies>
-      <AdditionalLibraryDirectories>D:\Dev\Diagraph\Qt\qt-everywhere-src-5.15.2\qtbase\lib</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Tools\Qt\5.15-win64\lib</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
