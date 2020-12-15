@@ -1,0 +1,5 @@
+﻿  Test.cpp
+  .NETCoreApp,Version=v5.0.AssemblyAttributes.cpp
+  Generating Code...
+  Test.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  NextJet.vcxproj -> D:\Dev\Diagraph\NextJetShared\NETCoreTest\WpfTest\Debug\NextJet.dll

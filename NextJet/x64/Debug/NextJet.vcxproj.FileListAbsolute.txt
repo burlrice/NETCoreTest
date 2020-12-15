@@ -1,0 +1,5 @@
+D:\Dev\Diagraph\NextJetShared\NETCoreTest\WpfTest\x64\Debug\Ijwhost.dll
+D:\Dev\Diagraph\NextJetShared\NETCoreTest\WpfTest\x64\Debug\NextJet.deps.json
+D:\Dev\Diagraph\NextJetShared\NETCoreTest\WpfTest\x64\Debug\NextJet.runtimeconfig.json
+D:\Dev\Diagraph\NextJetShared\NETCoreTest\NextJet\x64\Debug\NextJet.genruntimeconfig.cache
+D:\Dev\Diagraph\NextJetShared\NETCoreTest\NextJet\x64\Debug\NextJet.vcxprojAssemblyReference.cache
